@@ -1,11 +1,13 @@
 * {
-    padding: 0;
-    margin: 0;
+    padding: flex;
+    margin: flex;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
   }
   body {
     background-color: hsl(323, 100%, 81%);
+    padding: flex;
+    margin: flex;
   }
   .card {
     width: 640px;
